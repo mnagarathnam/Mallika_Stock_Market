@@ -1,0 +1,50 @@
+MAIN TABS:
+MY LIST:A watchlist on Upstox is a curated list of stocks you want to trade. You can create up to 20 watchlists, and each watchlist can have up to 100 stocks. If you exceed these limits, the extra watchlists and symbols or stocks per watchlist will be deleted
+
+PORTFOLIO:  a list of stocks in which the user has currently invested
+ORDERS:     The Orders tab in the Upstox app shows your open orders and order history
+DISCOVER:   The Discover tab on the Upstox app helps you find new trading and investing opportunities
+AMOUNT:     The Account tab in the Upstox app allows you to access and manage your account information, including: 
+ 
+Demat holdings
+You can track your Demat holdings and access other information, such as your day's P&L and overall P&L. 
+ 
+Holding report
+You can generate a report of your holdings for a specific date, and download it as an Excel or PDF file. 
+ 
+Order history
+You can check your order history by switching to "Upstox - For investors". 
+ 
+Add funds
+You can add funds to your account using net banking, UPI, Google Pay, NEFT/RTGS/IMPS, or cheque. 
+ 
+Ledger report
+You can check your ledger report for all transactions, debit transactions, or credit transactions. You can download the report as an Excel or PDF file, or receive it by email.
+
+INDEX OPTION: These options have the index as the underlying. In India, they have a European style settlement. Eg. Nifty options, Mini Nifty options etc.
+
+STOCK OPTIONS: Stock options are options on individual stocks. A stock option contract gives the holder the right to buy or sell the underlying shares at the specified price. They have an American style settlement.
+
+BUYER OF AN OPTION: The buyer of an option is the one who by paying the option premium buys the right but not the obligation to exercise his option on the seller/writer.
+WRITER\SELLER OPTION: The writer / seller of a call/put option is the one who receives the option premium and is thereby obliged to sell/buy the asset if the buyer exercises on him.
+
+CALL OPTION: A call option gives the holder the right but not the obligation to buy an asset by a certain date for a certain price.
+
+PUT OPTION: A put option gives the holder the right but not the obligation to sell an asset by a certain date for a certain price.
+
+OPTION PRICE\ PREMIUM: Option price is the price which the option buyer pays to the option seller. It is also referred to as the option premium.
+
+EXPIRATION DATE: The date specified in the options contract is known as the expiration date, the exercise date, the strike date or the maturity.
+
+STRIKE PRICE: The price specified in the options contract is known as the strike price or the exercise price.
+
+AMERICAN OPTIONS: American options are options that can be exercised at any time up to the expiration date.
+
+EUROPEAN OPTIONS : European options are options that can be exercised only on the expiration date itself.
+
+IN-THE-MONEY OPTION: An in-the-money (ITM) option is an option that would lead to a positive cashflow to the holder if it were exercised immediately. A call option on the index is said to be in-the-money when the current index stands at a level higher than the strike price (i.e. spot price > strike price). If the index is much higher than the strike price, the call is said to be deep ITM. In the case of a put, the put is ITM if the index is below the strike price.At-the-money option: An at-the-money (ATM) option is an option that would lead to zero cashflow if it were exercised immediately. An option on the index is at-the-money when the current index equals the strike price (i.e. spot price = strike price).
+
+OUT OF THE MONEY- OPTION: An out-of-the-money (OTM) option is an option that would lead to a negative cashflow if it were exercised immediately. A call option on the index is out-of-the-money when the current index stands at a level which is less than the strike price (i.e. spot price < strike price). If the index is much lower than the strike price, the call is said to be deep OTM. In the case of a put, the put is OTM if the index is above the strike price.
+Intrinsic value of an option: The option premium can be broken down into two components - intrinsic value and time value. The intrinsic value of a call is the amount the option is ITM, if it is ITM. If the call is OTM, its intrinsic value is zero. Putting it another way, the intrinsic value of a call is Max[0, (St — K)] which means the intrinsic value of a call is the greater of 0 or (St — K). Similarly, the intrinsic value of a put is Max[0,K — St],i.e. the greater of 0 or (K — St). K is the strike price and St is the spot price.
+
+TIME VALUE OF AN OPTION: The time value of an option is the difference between its premium and its intrinsic value. Both calls and puts have time value. An option that is OTM or ATM has only time value. Usually, the maximum time value exists when the option is ATM. The longer the time to expiration, the greater is an option's time value, all else equal. At expiration, an option should have no time value.

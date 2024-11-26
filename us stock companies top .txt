@@ -1,0 +1,34 @@
+*** us stock companies top ****
+ top companies ---11/8/2024 
+
+top companies by market cap
+name --- price --market cap(in billion us) 
+apple --209.92  3,241 .56
+Microsoft --398
+
+
+
+
+
+
+
+
+market cap---- bullish 
+2)apple ----
+3)tesla--
+4)JPMorgan chase---
+5)Walmart--
+6)Exxon mobil----
+8)meta platforms (Facebook)-- 
+9)Berkshire Hathaway-- 
+10)UnitedHealth---
+
+market cap---- bearish 
+1)Microsoft ---
+2)NVidia
+3)alphabet (google)
+4)amazon --- 
+5)tsmc ---
+6)eli lilly---
+7)Broadcom ---
+8)novo nordisk----

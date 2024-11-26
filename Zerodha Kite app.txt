@@ -1,0 +1,235 @@
+The Zerodha Kite app has a number of watchlist options, including: 
+ 
+Multiple watchlists
+The app has seven watchlists, each with a maximum of 50 instruments. You can swipe left or right to switch between watchlists. 
+ 
+Sorting
+You can sort your watchlist alphabetically, by percentage change, or by LTP. 
+ 
+Showing or hiding price or percentage change
+You can choose to show or hide the price or percentage change for each instrument. 
+ 
+Showing or hiding the direction of change
+You can choose to show or hide the direction of change for each instrument. 
+ 
+Notes
+ou can add notes to stocks or F&O contracts to help you remember why you added them to your watchlist. 
+ 
+Option chain
+You can view the option chain for an instrument by tapping on it in the Marketwatch and then tapping Option chain. 
+ 
+Search box
+You can search for instruments and contracts across all exchanges and segments. 
+ 
+Adding or deleting instruments
+You can search for an instrument in the search bar and click Add to add it to your watchlist. 
+
+As a risk management measure, at Zerodha, a single user cannot place more than 3000 orders per day. This restriction is across all segments. There are also limitations at 200 orders per minute. Rate limitations also apply for order modification, where a maximum of 25 modifications are allowed per order.
+
+Here are some options for placing orders on the Zerodha Kite app: 
+ 
+Order types: You can place market, limit, or stop-loss orders: 
+ 
+Market order: Buy or sell shares at the current best price. 
+ 
+Limit order: Buy or sell shares at a specific price. 
+ 
+Stop-loss order: Limit losses by placing an order to sell when the price moves against you. 
+ 
+Quick order window: Enter the amount you want to invest or the number of shares you want to buy. 
+ 
+Intraday orders: Place intraday orders by clicking the Intraday checkbox. 
+ 
+Product type: Select Product as Intraday MIS or Longterm CNC. 
+ 
+Order type: Select Type as Market, Limit, SL, or SL-M. 
+ 
+After-market orders: Place after-market orders. 
+ 
+You can also track up to 10 family members' portfolios in Zerodha Kite by adding their sub-accounts. 
+ 
+Here's how to use the Zerodha Kite app to place bids for IPOs, OFS, and auction markets: 
+ 
+IPO
+To apply for an IPO, you can: 
+ 
+Log in to kite.zerodha.com 
+ 
+Click Bids, then IPO, then Apply 
+ 
+Select your investor type 
+ 
+Enter your UPI ID 
+ 
+Enter the quantity and price 
+ 
+Click Submit 
+ 
+Accept the mandate on the UPI app 
+ 
+OFS
+To apply for an OFS, you can: 
+ 
+Click Portfolio, then Corporate actions 
+ 
+Hover over ⋯ and click Options 
+ 
+Place your bids 
+ 
+Click Submit 
+ 
+Auction markets
+You can participate in auction markets on the Kite app. Note that auction orders cannot be modified, but you can cancel and place a new order with a different price or quantity during the auction session. 
+ 
+Here are some features of the Zerodha Kite app: 
+ 
+Themes: Switch between dark and default themes 
+ 
+Order notifications: Enable or disable order notifications 
+ 
+Sticky order window: Enable or disable the sticky order window 
+ 
+Profit and loss statements: The Console feature provides accurate profit and loss statements for your portfolio 
+ 
+Fund transfers: Make fund transfers using the Kite app, UPI, or netbanking 
+ 
+Family accounts: Link up to 10 accounts to view holdings at a family level 
+ 
+Zerodha offers three types of accounts:
+Equity and derivatives trading account: For trading stocks, futures, and options. There are no annual maintenance charges.
+Demat account: For keeping stocks in electronic format. There is an annual maintenance charge of Rs.300 and an opening charge of Rs.100.
+Commodity trading account: For trading commodity futures. There are no annual maintenance charges. 
+ 
+here are a few ways to add funds to your Zerodha Kite app account, including: 
+ 
+UPI
+Funds can be transferred to your account instantly and for free using UPI. You can initiate a UPI transfer from the Kite app by selecting the Funds tab and clicking Add funds. You'll need to enter the amount, select UPI, and enter the UPI ID linked to your registered bank account. 
+ 
+Instant payment gateway
+You can use the instant payment gateway to add funds to your account instantly, but there is a fee of ₹9 plus 18% GST. This option is available for around 30 banks, and you'll need your internet banking ID and password. 
+ 
+IMPS/NEFT/RTGS
+These options are free, but bank charges may apply. NEFT transfers can take up to 8 hours, while RTGS transfers take around 2 hours. 
+ 
+You can link more than one bank account to your Zerodha account. Funds transferred between 12 AM and 7:30 AM will not appear until after 7:30 AM. 
+ 
+List of all fees, charges, and taxes on trading and investing - Zerodha
+Equity. ... 0.125% of the intrinsic value on options that are bought and exercised. 0.0625% on sell side (on premium)
+
+Zerodha
+Coin by Zerodha - Buy and sell thousands of commission-free ...
+National Pension System Invest in NPS for a secure future: Simple. Beneficial. Your retirement income booster.
+
+Zerodha Coin
+Our technology, trading platforms, and investment apps - Zerodha
+Kite Connect API Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, buil...
+
+Zerodha
+
+he Zerodha Kite app has a few options for logging in, including a Time-based One-Time Password (TOTP) and external TOTP: 
+ 
+App Code: A cryptographically secure code that's valid for 30 seconds and is generated on the Kite app. It's required to log in to Kite web, but isn't needed if you use external TOTP. 
+ 
+External TOTP: You can set up external TOTP from the login page or profile section. 
+ 
+SMS OTP: You can receive an OTP via SMS or email when you log in to the Kite app. 
+ 
+If you're having trouble with the Kite app code, you can try these steps: Click Settings, Click Time & Language, Toggle the Set the time automatically button, and Click Sync now. 
+ 
+The Zerodha Kite app has several profile options, including: 
+ 
+Profile picture: Set a profile picture by tapping on the user ID, then the profile picture icon, then the icon again, and finally taking a photo or selecting one 
+ 
+Enable Time-based OTP (TOTP): Enable TOTP by tapping on Client ID, then Profile, then Manage, then Enable external TOTP, entering the OTP received on email, tapping Verify, entering the TOTP and kite log in password, and tapping Enable 
+ 
+Account details: View bank account details linked with Zerodha 
+ 
+Password reset: Reset your Zerodha account password without access to your linked email ID or mobile number 
+ 
+Quarterly settlement: Also known as running account settlement 
+ 
+To activate F&O in the Kite app, you can:
+Tap on the user ID
+Tap on Profile
+Tap on Segments
+Tap on the segments to be enabled and tap on Continue
+Select the income range and income proof 1 and click on Choose file
+Accept the terms and conditions
+Select Email or SMS to receive the OTP
+Enter the OTP and click on Verify 
+Here are some options in the Zerodha Kite app: 
+ 
+Theme: Switch between the default and dark theme 
+ 
+Notifications: Enable or disable order notifications 
+ 
+Sticky order window: Enable or disable the sticky order window 
+ 
+Console: Access Zerodha's back office reporting tool 
+ 
+Connected apps: Check which apps are connected to the Kite app, and revoke access to any of them 
+ 
+Logout: Log out of the Kite app 
+ 
+Support: Search for trading or Kite-related queries on the Support Portal 
+ 
+Device lock: Enable a device lock on your mobile device 
+ 
+Accessibility mode: Make the Kite app more compatible with voice assistant applications and talkback for visually impaired users 
+ 
+You can also save your chart settings as a view on ChartIQ:
+Select the chart type and time frame
+Apply indicators
+Tap 👁
+Tap Save View
+Enter a name and tap SAVE
+Tap the cloud check symbol and then Save preferences
+ere's how to check and revoke access to apps connected to the Zerodha Kite app: 
+ 
+Open the Kite app and tap Settings 
+ 
+Tap Connected Apps 
+ 
+Tap the app you want to check or revoke access to 
+ 
+To check the app's permissions, tap the app 
+ 
+To revoke access to the app, tap Revoke 
+ 
+Kite doesn't directly connect with third-party apps like AmiBroker or TradingView. However, you can use the charting libraries of ChartIQ and Tradingview within Kite. 
+  
+ o log out of the Zerodha Kite app, you can tap Logout in the Connected apps section. 
+ 
+The Kite app may log you out if you: Switch to another app, Minimize the Kite app, Your device is in power-saving mode, and The app is prevented from running in the background. 
+ 
+To improve your device's ability to run applications, you can try these steps:
+Android devices: Go to Phone settings > Battery and change the power plan to Performance or turn off power-saving mode. You can also change the application to Not optimized. 
+ 
+You can also revoke access to apps logged in via Kite. To do this, you can:
+Kite web: Click on your client ID, then My Profile, then Apps, then Revoke
+Kite app: Tap on your Client ID, then Connected Apps, then tap the app to revoke access to, then tap Revoke 
+ 
+The Zerodha Kite app's Console provides access to a variety of options, including: 
+ 
+Reports: Access and download reports, including trade books, tax P&L, and more 
+ 
+Analytics: Use tools like trade book and P&L heatmaps to analyze performance metrics 
+ 
+Portfolio: View and track your portfolio of stocks, positions, and mutual funds 
+ 
+Contract notes and margin statements: Download contract notes and margin statements 
+ 
+Nudge: Receive proactive alerts about potential risks associated with trades, such as illiquid instruments, dubious stocks, and more 
+ 
+You can access the Console by tapping Portfolio, Tradebook, P&L, Tax P&L, IPO, Gift stocks, or Family. 
+ You can also log in to the Zerodha Console by going to console.zerodha.com and following these steps:
+Click LOGIN WITH KITE
+Enter your Client ID and Password
+Click Login
+Enter the App code and click Continue 
+
+
+
+
+
+ 

@@ -1,0 +1,393 @@
+us stock market(analysis on top 10industry stock) 
+1)American express companies'
+2)Tyson foods--
+3)itc limited-
+4)coca cola--(cof)
+5)general mills
+6)mc Donalds corporation
+7)PepsiCo
+8)john  b. Sanfilippo &son
+9)archer Daniels midland company
+10)tarbucks corporation---
+
+--American express companies---
+**ONE dye--trade
+July 29/2024
+
+ 
+--ONE week--trade
+JULY/2024/22nd
+OPEN PRICE=243.01
+HIGH=248.99239.39
+LOW=244.31
+close=245.89
+POSNTS=3high bullish
+bullish from past 7days
+
+---one month --trade
+July/2024/01---
+
+open price=232.33
+high=253.73
+low=231.55
+close=247.89
+points=16.34 high bullish
+bullish on June and bullish from
+November 2023to may 2024
+
+--one year --trade
+jan/3rd/2024
+open price=232.33
+high=253.73
+low=231.55
+close=247.89
+points= 16.34 high bullish
+bullish on 2022
+
+*--Tyson foods----
+--one day --trade
+July/30th,2024
+open price=60.65
+high=61.14
+ low=60.91
+close=60.91
+points=0.01=low bearish
+
+--one week-- trade 
+ July/22nd/2024
+open price=60.83
+high=61.17
+low=60.91
+close=60.91
+points=0.01 low bearish
+
+--one month--trade
+July 1st 2024
+open price=57.30
+high=61.32
+low=55.65
+close=6091
+points=3.77 high bullish
+
+--one year --trade
+jan 2nd 2023
+open price=62.95
+high=66.79
+low=44.94
+close=53.75
+points=8.50 low bearish
+
+-- itc limited-
+
+--one dye --trade
+July 30th/2024
+
+open price=492.45
+high=497.95
+low=490.50
+ close=495.35
+points=5.54 high, bullish
+ 
+--one week--trade-
+22nd July/2024
+open price=474.60 
+high=510.65
+low=465.85
+close=502.20
+points=27.65 =high bullish
+bullish from past5 weeks
+
+--one month-- trade
+July/1st/2024
+open price =426.30
+high=510.65
+low=422.55
+close=495.35
+points=70.45 high, bullish
+
+--one year --trade 
+jan/3rd/ 2023/
+open price=330.90
+high=499.70
+low=326.00
+close=462.10
+points=130.55 high bullish
+bullish from past 3 years raising price
+
+---coca cola--(cof)
+
+--one dye-- trade
+
+July/30th/2024
+open price=88.35
+high=89.75
+low=87.10
+close=88.79
+points=0.99 high bullish
+
+-- one week --
+July /22nd/2024
+
+open price =89.62
+high=92.77
+low=84.27
+close=87.75
+posts=0.59 low bearish
+
+-- one month--
+July 1st,2024
+open price=84.00
+high=92.77
+low=80.79
+close=88.79
+points=2.95 high bullish
+
+--one year --trade
+Jan/3rd/2023
+open price=67.34
+high=99.44
+low=64.97
+close=94.64
+points=26.76 high bullish 
+bullish from past 2years,price
+dropped from 2012 to 2020 rising from 2021
+
+-- general mills---
+--trade one dye---
+
+July 1st/2024
+
+open price=67.69
+high=68.19
+low=67.25
+close=67.14
+points=0.91 low, bearish
+
+-- one week--
+open price=64.49
+high=67.25
+low=63.56
+close=66.32
+posts=1.94 bullish
+
+---one month trade--
+July/1st/2024
+open price=63.43
+high=68.19
+low=62.12
+close=66.32
+posts=1.94 bullish
+
+-- one year--trade
+jan/ 3rd/2023
+open price=83.56
+high=90.89
+low=60.33
+close=65.14
+posts=18.71 bearish on 2023
+bullish from 2019to 2022
+
+ *--mc Donalds corporation---
+one day--trade
+
+July 29th/2024
+ open price=253.55
+high=263.93
+low=250.23
+close=261.42
+posts=9.42 high
+spikes = bullish spikes from 9.30am
+to 10am
+-- one week ---trade 
+July /22nd/July, 2024
+open price =258.30
+high=260.14
+low=246.14
+close=252
+posts= 5.28 bearish
+
+-- one month-- trade--
+July/1st/2024
+open price=254.83
+high=263.93
+low=243.53
+close=361.42
+posts=5.28 bearish
+
+--- one year-- trade
+jan 3rd 2024
+open price=258.30
+high=260.14
+low=246.14
+close=296.51
+posts=32.98low bearish
+bearish from past 7years
+
+-- PepsiCo---
+one dye---tared--
+July 30th /2024
+open price=172.69
+high=173.45
+low=171.55
+close=173.18
+posts=0.03 low, bearish
+
+one week trade--
+July/22nd /2024
+open price=172.29
+high=173.49
+low=172.85
+close=173.18
+posts=0.43 high, bullish
+
+one month tared--
+July/ 1st/ 2024
+open price=165.04
+high=173.49
+low= 158.03
+close=173.18
+points=8.25 high, bullish
+
+one year trade----
+jan /2nd/ 2023
+open price =180.59
+high=196.88
+low=155.83
+close=169.84
+points= 10.82 low bearish on 2023
+bullish from fast 4 years rising price
+  
+john  b. Sanfilippo &son --
+--one dye--trade 
+July/ 30th/2024
+open price=103.49
+high=105.63
+low=102.97
+close=104.87
+points=1. 35 high ,bullish 
+
+one week--trade
+July /22nd/2024
+open price=103.30
+high=105.63
+low=102.97
+close=104.87
+points=1.35 high, bullish
+bullish from fast 4 weeks
+
+-- one month--trade--
+July/1st/2024
+open price=97.01
+high=105.63
+low=91.13
+close=104.87
+points=7.7high,bullish
+
+--one year--trade
+jan/ 3rd/2023
+open price=82.01
+high= 127.26
+low=76.49
+close=103.04
+points=1.94 bullish
+
+archer Daniels midland company---
+one dye ---trade
+July/ 30th/2024
+open price =61.00
+high=63.14
+low=59.04
+close=62.50
+points=0.80 low, bullish
+
+--one week--trade
+July 30th,2024
+open price=63.78
+high=64.24
+low=59.04
+close=62.50
+points=0.80 low bearish
+
+--one month--trade --
+July/1st,is /2024
+open price=60.82
+high=66.08
+low=59.04
+close=62.50
+points=2.05 high bullish
+
+one year trade---
+jan/ 3rd/ 2023
+open price=92.75 
+high=92.85
+low=69.31
+close=72.22
+points=2.20.63 low bearish on 2023 
+bullish from 2018
+
+--tarbucks corporation---
+one day--trade
+July/30th/2024
+open price=75.25
+high=76.05
+low=74.85
+close=75.94
+pistons=0.74high bullish
+
+one week --tread
+july/22nd /2024
+open price=75.25
+high=76.05
+low=74.85
+close=75.94
+pistons=0.74
+
+-one moth--tread
+July 1st 2024
+open price=77.99
+high=79.38S
+low=71.55
+close=75.94
+pistons=1.91 low bearish
+
+one year trade--
+
+jan 2nd 2023
+open price=100.56
+high=115.'48
+low=89.21
+close=96.01
+pistons=3.19 bearish 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+

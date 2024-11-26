@@ -1,0 +1,34 @@
+-----nifty  two months ----
+----2024/01/jul/mod
+    one dye
+opening price=23,992.95
+high=24,164.00
+low=23,992.70
+close=24,141.95
+points=131.35 bullish
+
+spikes from bullish o1/July/2024
+spikes from bearish 19/July/2024
+
+opening price=24,886.70
+high=24,984.60
+low=24,856.50
+close=24,951.15
+points=93.85 bullish
+
+   --one dye--
+2024/01/aug/wed
+opening price=25,030.95
+high=25,078.30
+low=24,956.40
+close=25,010.90
+points=59.75 bearish
+
+2024/31/aug/frd
+one dye-
+opening price=25,249.70
+high=25,268.35
+low=25,199.40
+close=25,235.90
+points=83.95 bearish
+    no spikes

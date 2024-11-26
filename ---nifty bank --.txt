@@ -1,0 +1,49 @@
+---nifty bank --
+2024 05 aug
+one week- 
+opening=50,586.25  
+high=50,7547.55
+low=49,659.05
+close=50,484.50
+posting=865.65 bearish
+
+2024 12 aug
+one week
+opening price=50,412.60
+high price=50,830.70
+low price=49,654.65
+close price=50,516.90
+posting= 32.40 bullish
+
+ 2024 19 aug 
+one week
+opening price=50,683.55
+high price=51,117.85
+low price=50,283.55
+close price=50,933.45
+posting= 416.55 bullish high
+
+2024 26 aug
+one week
+ opening price=51,100.65
+high price=51,466.55
+low price=50,938.10
+close price=51,351.55
+posting=  417.55 bullish high
+
+2024 01 jul 
+one week
+opening price=52,351.15
+high price=53,357.70
+low price=51,996.65
+close price=52,660.35
+posting= 31.10 bullish
+
+2024 29 July
+one week
+opening price=51,546.65
+high price=52,340.25
+low price=51,087.85
+close price=51,350.15
+posting= 54.20 bearish
+

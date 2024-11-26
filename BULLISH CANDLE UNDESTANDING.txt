@@ -1,0 +1,46 @@
+-BULLISH CANDLE UNDERSTANDING --
+
+A bullish candlestick is a type of candlestick that indicates that the price of a 
+stock or other financial instrument is likely to increase. Bullish candlesticks are typically green or white and have the following characteristics:
+Closing price: The closing price is higher than the opening price
+Body: Bullish candles have larger green bodies
+Wicks: Bullish candles have long lower wicks and short or no upper wicks 
+Bullish candlesticks can be used to identify trend reversals and to buy stocks. They can occur as continuation patterns or reversal patterns:
+Continuation patterns
+These patterns occur in uptrends and indicate that the uptrend is likely to continue
+Reversal patterns
+These patterns occur in stocks that have been in downtrends and indicate that the downtrend is losing momentum 
+
+BULLISH CANDLE UNDERSTANDING MINING 
+
+A bullish candlestick pattern is one that signals a coming uptrend in an asset's price or a continuation of said uptrend. Each candlestick visually represents the open, close, low and high price during a certain time frame.
+
+Some examples of bullish candlestick patterns include: 
+Belt Hold
+This continuation candle has an almost equal body and wick, but the wick is placed on only one end of the body 
+Piercing Line
+This pattern is similar to the Bullish Engulfing pattern, but the Piercing Line doesn't completely engulf the prior candle 
+Rising Three Methods
+This pattern starts with a long white day, followed by small real bodies that move the price lower, and ends with another long white day
+ Some bullish candlestick patterns include: 
+
+Bullish engulfing
+A white (green) candle completely engulfs the previous black (red) candle, indicating a strong buying impulse. 
+
+Inverse hammer
+An upside-down pattern with a long upper shadow, short lower shadow, and tiny candle body that can signal a bullish reversal at the bottom of a downtrend. 
+
+Three white soldiers
+Three consecutive bullish candlesticks that indicate strong buying pressure, especially if they appear after a downtrend reversal. 
+
+Bullish Harami
+A large bearish candle on day one followed by a smaller bullish candle on day two, with the smaller candle fitting within the larger one. 
+
+Tweezer bottom
+Two candles, usually with small bodies, where the first is red (bearish) and the second is green (bullish). The bodies of the candles are usually close in terms of their closing and opening prices. 
+
+Bullish Marubozu
+A single candle where the open and low are approximately equal, and the high and close are also approximately equal. 
+
+
+

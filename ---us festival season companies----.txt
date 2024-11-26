@@ -1,0 +1,254 @@
+---us festival season companies----
+1)lululemon athletica 
+2)-guess(ges)
+3)nike-
+
+--lululemon athletica --
+--one dye--
+
+2023/29/dec/fri
+OPEN PRICE=509.87
+HIGH=516.39
+LOW= 508.46
+CLOSE=511.29
+POSNTS=2.07 bullish
+l
+--one week---
+2023/26/dec/tue
+OPEN PRICE=513.24
+HIGH=516.39
+LOW=505.52
+CLOSE511.29
+POSNTS=1.29 bearish
+
+
+--one month---
+2023/01/dec/fir
+OPEN PRICE=447.60
+HIGH=516.39
+LOW= 447.60
+CLOSE=511.29
+POSNTS=264.69 high bullish
+
+--one yearly---
+2023/03/jan/tue
+OPEN PRICE=326.88
+HIGH=516.39
+LOW= 286.58
+CLOSE=511.29
+POSNTS=190.91  high bullish
+
+--guess(ges)---
+--one dye---
+2023/21/des/ thu
+OPEN PRICE=24.18
+HIGH=24.19
+LOW= 23.31
+CLOSE=23.64
+POSNTS=0.29 bearish
+
+--one week--
+2023/26/dec/tue
+OPEN PRICE=24.33
+HIGH=24.43
+LOW= 23.04
+CLOSE=23.06
+POSNTS=1.12bearish
+
+--one month--
+2023/01/dec/fri
+OPEN PRICE=21.98
+HIGH=24.60
+LOW= 21.58
+CLOSE=23.06
+POSNTS=1.04 bullish
+
+--one yearly--
+2023/03/jan/tue
+OPEN PRICE=20.90
+HIGH=24.84
+LOW= 17.21
+CLOSE=23.06
+POSNTS=2.37 bullish
+
+---nike---
+
+--one dye--
+2023/29/dec/fri
+OPEN PRICE=108.96
+HIGH=109.96
+LOW= 108.09
+CLOSE=108.57
+POSNTS=0.25 bearish
+
+--one week--
+2023/26/dec/tue
+OPEN PRICE=108.30
+HIGH=109.96
+LOW= 106.81
+CLOSE=108.57
+POSNTS=0.53 bullish
+
+--one month---
+2023/01/dec/fri
+OPEN PRICE=110.33
+HIGH=123.39
+LOW=106.81 
+CLOSE=108.57
+POSNTS=1.70 bearish
+
+--one yarely---
+2023/01/dec/fri
+OPEN PRICE=110.33
+HIGH=123.39
+LOW= 106.81
+CLOSE=108.57
+POSNTS=1.70 bearish
+
+------fashion companies of us stock market on Christmas festival--- 
+1)dicks sporting goods
+2)-amazon com,
+3-)Walmart
+4) ETSY
+----dicks sporting goods--
+--one dye--
+2023/29/dec/fri
+OPEN PRICE=133.300
+HIGH=133.300
+LOW= 133.300
+CLOSE=133.300
+POSNTS=0.080 bullish
+
+--one week--
+2023/27/dec/wed
+OPEN PRICE=132.740
+HIGH=133.840
+LOW= 132.740
+CLOSE=133.300
+POSNTS=3.620 high bullish
+
+--one month--
+2023/01/dec/fri
+OPEN PRICE=127.080
+HIGH=133.980
+LOW= 126.500
+CLOSE=133.300
+POSNTS=13.740 bullish
+
+--one yearly--
+2023/02/jan/mon
+OPEN PRICE=112.980
+HIGH=141.960
+LOW= 95.570
+CLOSE=133.300
+POSNTS=22.840 bullish
+
+----amazon com,---
+---one dye---
+2023/29/des/fri
+OPEN PRICE=153.10
+HIGH=153.89
+LOW= 151.03
+CLOSE=151.03
+POSNTS=151.94 bearish
+--one week---
+2023/26/dec/tue
+OPEN PRICE=153.56
+HIGH=154.78
+LOW= 151.03
+CLOSE=151.94
+POSNTS=1.48 bearish
+
+--one week--
+2023/02/jan/tue
+OPEN PRICE=151.54
+HIGH=152.38
+LOW= 144.05
+CLOSE=145.24
+POSNTS=6.70 bearish
+
+one month--
+2023/01/dec/fri
+OPEN PRICE=146.00
+HIGH=155.63
+LOW= 142.81
+CLOSE=151.94
+POSNTS=5.85 bullish
+
+--one yearly --
+2023/03/dec/tue
+OPEN PRICE=85.46
+HIGH=155.63
+LOW= 81.43
+CLOSE=151.94
+POSNTS=67.94 high bullish
+
+----Walmart --
+--one dye--
+2023/29/dec/fri
+OPEN PRICE=52.51
+HIGH=52.69
+LOW= 52.39
+CLOSE=52.55
+POSNTS=0.03 bullish
+
+--one week--
+2023/26/dec/tue
+OPEN PRICE=52.22
+HIGH=52.78
+LOW= 52.04
+CLOSE=52.55
+POSNTS=0.33 bullish
+
+--one month--
+2023/01/dec/fri
+OPEN PRICE=51.79
+HIGH=52.78
+LOW= 49.85
+CLOSE=52.55
+POSNTS=o.65 bullish
+
+--one yearly--
+tue/03/jan tue
+OPEN PRICE=47.52
+HIGH=56.65
+LOW= 45.36
+CLOSE=52.55
+POSNTS=5.29 bullish 
+
+---target corporation--
+--one dye--
+2023/29/dec/fri
+OPEN PRICE=142.02
+HIGH=143.37
+LOW= 141.72
+CLOSE=142.42
+POSNTS=0.12 bullish
+
+one week--
+2023/26/dec/tue
+OPEN PRICE=140.00
+HIGH=143.37
+LOW= 139.29
+CLOSE=142.42
+POSNTS=2.22 bullish
+
+one month--
+2023/01/dec/fri
+
+--one yearly---
+2023/03/jan/tue
+OPEN PRICE=149.98
+HIGH=181.70
+LOW= 102.93
+CLOSE=142.42
+POSNTS=6.62 bearish
+
+----ETSY--
+ONE DYE--
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+---nifty50 one week trading---
+2024/09/sep/mon
+starting price=24,823.40
+high price= 25,433.35
+low price=24,753.15
+close price= 25,356.50
+points price=504.35 bullish (buy sell)
+
+--nifty50 one week trading--
+2024/16/sep/mon
+starting price=25,406.65
+high price= 25,849.25
+low price=25,285.55
+close price= 25,790.95
+points price=434.45 bullish (buy sell)

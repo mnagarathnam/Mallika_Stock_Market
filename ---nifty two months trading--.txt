@@ -1,0 +1,43 @@
+---nifty two months trading--
+one dye--
+2024/01/aug/thu
+opening price=25,030.95
+high=25,078.30
+low=24,956.40
+close=25,010.90
+points=59.75
+
+---one month
+
+2024/01 aug/thu
+opening price=25,030.95
+high=25,268.35
+low=23,893.70
+close=25,235.90
+points=284.75 bullish
+
+--one week-
+2024/26/aug/mon
+opening price=24,906.10
+high=25,268.35
+low=24,874.70
+close=25,235.90
+points=412.75 bullish
+   no spikes 
+
+2024/03/sep/tue
+one dye
+opening price=25,313.40
+high=25,321.70
+low=25,235.80
+close=25,279.85
+points=1.15 bullish
+
+--one week--
+2024/02/sep/mon
+
+openingprice=25,333.65
+high=25,083.80
+low=25,083.80
+close=25,171.85
+points=63.25 bearish
